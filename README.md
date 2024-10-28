@@ -10,7 +10,7 @@ This dataset is part of our paper "Survey Table Generation from Academic Article
 
 ## Data Sources
 - Tables, metadata and factual information from arXiv papers
-- S2ORC through Semantic Scholar Public API
+- S2ORC through Semantic Scholar Public API (ODC-By 1.0)
 - GPT-generated summaries (where indicated)
 
 ## Files in this Repository
