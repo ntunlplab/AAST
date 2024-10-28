@@ -6,7 +6,7 @@ Welcome to the AAST dataset repository! This dataset focuses on Academic Article
 This dataset is part of our paper "Survey Table Generation from Academic Articles" accepted at WI-IAT 2024.
 
 ## License
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+[ODC-By v1.0](https://opendatacommons.org/licenses/by/1.0/)
 
 ## Data Sources
 - Tables, metadata and factual information from arXiv papers
